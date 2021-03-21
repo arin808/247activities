@@ -1,1 +1,1 @@
-In this repository, all my code for activities will be located
+This branch contains all of the code and the DDL for activity 5
